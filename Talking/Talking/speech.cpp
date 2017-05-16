@@ -10,7 +10,7 @@ int main() {
 	cout << "There is an NPC over there.  Press enter to talk to him." << endl;
 	quotes[0] = "He is my squishy and he shall be mine.";
 	quotes[1] = "Get up on the Hydra's back!";
-	quotes[2] = "I AM PUCHING YOUR SALAD!";
+	quotes[2] = "I AM PUNCHING YOUR SALAD!";
 	quotes[3] = "I buy you a wrench and you try to kill me with it!";
 	quotes[4] = "Execute Order 66.";
 	while (true){
